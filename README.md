@@ -10,17 +10,8 @@ This project focuses on the classification of brain tumor images using the Incep
 
 ## Dataset Statistics 📊
 - **Training Dataset:**
-  - Number of Tumor images: [number]
-  - Number of non-Tumor images: [number]
+  - Number of datasets : 98
   
-- **Testing Dataset:**
-  - Number of Tumor images: [number]
-  - Number of non-Tumor images: [number]
-  
-- **Validation Dataset:**
-  - Number of Tumor images: [number]
-  - Number of non-Tumor images: [number]
-
 ## GPU and Model Checkpoint 🖥️💾
 - **Check GPU Availability:** Ensure efficient training with GPU acceleration.
 - **Model Checkpoint:** Save the model during training for future use.
@@ -44,21 +35,3 @@ This project focuses on the classification of brain tumor images using the Incep
 ## Model Predictions 📸🔮
 - **Random Image Predictions:** Check the model's predictions on random images from the test dataset.
 
-## Usage 🛠️
-### Requirements
-- Specify dependencies and requirements needed to run the code.
-
-### Running the Code
-- Provide instructions on how to run the code, train the models, and evaluate their performance.
-
-## Results 📊🎉
-- Summarize the results obtained, showcasing the model's accuracy and key performance metrics.
-
-## Future Work 🚀🔍
-- Discuss potential future enhancements, improvements, or additional features.
-
-## Acknowledgments 🙏
-- Acknowledge any external resources, datasets, or libraries used.
-
-## License 📜
-- Specify the license under which your project is distributed.
