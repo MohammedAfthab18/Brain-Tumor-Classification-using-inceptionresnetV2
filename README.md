@@ -17,8 +17,8 @@ This project focuses on the classification of brain tumor images using the Incep
 - **Model Checkpoint:** Save the model during training for future use.
 
 ## Model Architecture 🧠🏗️
-- **InceptionResNet for Feature Extractor:** Utilize the power of InceptionResNetV2 for automatic feature extraction.
-- **Model Summary:** Overview of the architecture.
+- **InceptionResNet for Feature Extractor:** Utilized the power of InceptionResNetV2 for automatic feature extraction.
+
 
 ## Model Training 🚂💨
 - **Training Starts Here:** Begin the training process.
